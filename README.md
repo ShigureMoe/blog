@@ -1,3 +1,3 @@
 # 友情链接
 
-[零件] (https://nekosc.com/)
+[零件](https://nekosc.com/)
